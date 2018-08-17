@@ -5,8 +5,8 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               Devu
-tagline:             'Front End Developer'
+title:               Mr. Bansal
+tagline:             'Programmer | Blogger | Reader | CSM'
 description:         'A Front End Developer with Exp of more than 9 years. <a href="https://twitter.com/kapilbansal27" target="_blank">@kapilbansal27</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
@@ -21,7 +21,12 @@ author:
 # Custom vars
 version:             1.0.0
 
+#date
+future: true
+
 # Gems
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
+
+
